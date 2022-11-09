@@ -29,12 +29,6 @@
       "value": "Бүх"
     }
   ],
-  "label.all-events": [
-    {
-      "type": 0,
-      "value": "Бүх үйл явдал"
-    }
-  ],
   "label.all-time": [
     {
       "type": 0,
@@ -247,6 +241,12 @@
       "value": "Шинэ нууц үг"
     }
   ],
+  "label.none": [
+    {
+      "type": 0,
+      "value": "Байхгүй"
+    }
+  ],
   "label.owner": [
     {
       "type": 0,
@@ -397,6 +397,12 @@
       "value": "Вебүүд"
     }
   ],
+  "label.yesterday": [
+    {
+      "type": 0,
+      "value": "Өчигдөр"
+    }
+  ],
   "message.active-users": [
     {
       "type": 0,
@@ -456,7 +462,7 @@
   "message.confirm-reset": [
     {
       "type": 0,
-      "value": "Are your sure you want to reset "
+      "value": "Та "
     },
     {
       "type": 1,
@@ -464,7 +470,7 @@
     },
     {
       "type": 0,
-      "value": "'s statistics?"
+      "value": "-н тоон үзүүлэлтүүдийг устгахдаа итгэлтэй байна уу?"
     }
   ],
   "message.copied": [
@@ -477,6 +483,12 @@
     {
       "type": 0,
       "value": "Үүнтэй холбоотой бүх өгөгдөл устах болно."
+    }
+  ],
+  "message.edit-dashboard": [
+    {
+      "type": 0,
+      "value": "Хянах самбар засах"
     }
   ],
   "message.failure": [
@@ -731,12 +743,6 @@
       "value": "Нэгтгэсэн"
     }
   ],
-  "metrics.filter.domain-only": [
-    {
-      "type": 0,
-      "value": "Зөвхөн домэйн"
-    }
-  ],
   "metrics.filter.raw": [
     {
       "type": 0,
@@ -767,10 +773,22 @@
       "value": "Хуудас"
     }
   ],
+  "metrics.query-parameters": [
+    {
+      "type": 0,
+      "value": "Query параметр"
+    }
+  ],
   "metrics.referrers": [
     {
       "type": 0,
       "value": "Чиглүүлэгч"
+    }
+  ],
+  "metrics.screens": [
+    {
+      "type": 0,
+      "value": "Дэлгэц"
     }
   ],
   "metrics.unique-visitors": [
